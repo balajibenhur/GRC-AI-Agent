@@ -1,6 +1,6 @@
 # AI Assistant for GRC Queries
 
-This project is a Flask-based AI assistant for handling grc queries about a application hosted on AWS. The assistant is compliant with frameworks like PCI DSS, NIST 800-53, NIST RMF, and NIST CSF.
+This project is a Flask-based AI Agent for handling grc queries The assistant is compliant with frameworks like PCI DSS, NIST 800-53, NIST RMF, and NIST CSF.
 
 ## Features
 - Answers compliance and security-related questions.
