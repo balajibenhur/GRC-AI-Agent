@@ -19,3 +19,36 @@ This project is a Flask-based AI assistant for handling client queries about a p
    ```bash
    git clone https://github.com/yourusername/ai-assistant.git
    cd ai-assistant
+
+2.Install dependencies:
+
+pip install -r requirements.txt
+
+3.Set your OpenAI API key:
+
+export OPENAI_API_KEY=your_api_key
+
+4.Run the application:
+
+    python -m app.main
+
+Deployment
+Docker
+
+    Build the Docker image:
+
+docker build -t ai-assistant .
+
+Run the container:
+
+    docker run -p 5000:5000 ai-assistant
+
+API Usage
+
+    Endpoint: /query
+    Method: POST
+    Body:
+
+{
+  "query": "What is PCI DSS?"
+}
