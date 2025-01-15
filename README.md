@@ -18,7 +18,7 @@ This project is a Flask-based AI assistant for handling grc queries about a appl
 1. Clone the repository:
    ```bash
    git clone https://github.com/balajibenhur/GRC-AI-Agent.git
-   cd ai-assistant
+   cd GRC-AI-Agent
 
 2.Install dependencies:
 
