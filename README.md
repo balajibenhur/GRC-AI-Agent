@@ -1,4 +1,4 @@
-# AI Assistant for Client Queries
+# AI Assistant for GRC Queries
 
 This project is a Flask-based AI assistant for handling client queries about a payment processing platform hosted on AWS. The assistant is compliant with frameworks like PCI DSS, NIST 800-53, NIST RMF, and NIST CSF.
 
